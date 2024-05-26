@@ -1,6 +1,0 @@
-services:
-  generator:
-    container_name: generator
-    build:
-      context: .
-      dockerfile: Dockerfile.generator
